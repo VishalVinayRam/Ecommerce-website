@@ -1,0 +1,9 @@
+.homepage_MainImg
+{
+    margin-bottom :50%;
+    size-adjust: 50%;
+width: 100%;
+z-index: -1;
+margin-bottom: 200px;
+mask-image: repeating-linear-gradient(to_bottom,rgb(228, 46, 158),rgba(255, 164, 207, 0));
+}
