@@ -1,0 +1,39 @@
+.product
+{
+    text-align: left;
+    display: inline-flex;
+    padding: 10px;
+    justify-content:flex-end;
+    margin-left: 10px;
+    padding:20px;
+}
+.product_price{
+    margin-bottom: 10px;
+    margin:10px;
+
+}
+.product_number
+{
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 20px;
+    margin:15px;
+    border-color: rgb(0, 0, 0);
+    box-shadow: 2px 2px;
+   padding:20px;
+   padding-right: 20px;
+}
+.product_pic{
+    margin: 10px;
+    padding-right: 50%;
+
+}
+.add_tocart
+{
+    align-items: center;
+    margin-right: 50%;
+    background-color: rgb(230, 255, 5);
+}
+body{
+    font-size: larger;
+}
